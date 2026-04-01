@@ -1,4 +1,4 @@
-avav’m currently working on:
+I’m currently working on:
 Self projects in programming & cybersecurity
 🤝 I’m looking to collaborate on:
 Cybersecurity, programming & ethical hacking
