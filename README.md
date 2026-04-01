@@ -1,4 +1,4 @@
-🌟 I’m currently working on:
+avav’m currently working on:
 Self projects in programming & cybersecurity
 🤝 I’m looking to collaborate on:
 Cybersecurity, programming & ethical hacking
@@ -33,8 +33,5 @@ What to Do Next ? :
 Copy this Code and Paste it into your GitHub ReadMe file.
 
 
-Hey👋, Can you help us to grow by sharing?
-
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
+Hey👋, Can you help us to grow by sharing
 
